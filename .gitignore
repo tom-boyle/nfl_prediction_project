@@ -4,3 +4,6 @@ __pycache__/
 
 # Ignore virtual environment
 nfl_project_env/
+
+# Ignore datasets
+data/
